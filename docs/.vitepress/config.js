@@ -9,7 +9,7 @@ module.exports = {
         lastUpdated:'Last Updated',
         //导航栏
         nav:[
-            {text:'Homepage',link:'/index'},
+            {text:'Homepage',link:'/foo/index'},
             {text:'roadmap',link:'/foo/roadmap'},
             {text:'about_me',
                 items:[
@@ -21,7 +21,7 @@ module.exports = {
         ],
         //侧边栏
         sidebar:[
-            {text:'Welcome my Blog',link:'/index',},
+            {text:'Welcome my Blog',link:'/foo/index',},
             {text:'HTML',link:'/foo/html',},
             {text:'CSS',link:'/foo/css',},
             {text:'JavaScript',link:'/foo/javascript'},
@@ -32,7 +32,8 @@ module.exports = {
                     {text:'uTools',link:'/foo/uTools'},
                     {text:'markdown',link:'/foo/markdown'}
                 ]
-            }
+            },
+            {text:'Community',link:'/foo/community'}
         ],
     }
 }

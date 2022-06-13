@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a,b as o}from"./app.bfcc23f3.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"foo/javascript.md"}',s={},r=o("p",null,"javascript",-1),c=[r];function n(_,i,p,d,l,f){return a(),e("div",null,c)}var v=t(s,[["render",n]]);export{u as __pageData,v as default};
