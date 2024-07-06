@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a}from"./app.e55cb136.js";const m='{"title":"\u9996\u9875","description":"","frontmatter":{},"headers":[],"relativePath":"README.md"}',r={},s=a("p",null,"noting for other",-1),n=[s];function c(_,i,d,p,l,f){return o(),t("div",null,n)}var u=e(r,[["render",c]]);export{m as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as e,o,a as s}from"./app.e55cb136.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"foo/tools.md"}',a={},r=s("p",null,"tools",-1),c=[r];function n(_,l,d,i,p,f){return o(),e("div",null,c)}var h=t(a,[["render",n]]);export{u as __pageData,h as default};

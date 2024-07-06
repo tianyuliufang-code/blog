@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,b as t}from"./app.e55cb136.js";const m='{"title":"roadmap","description":"","frontmatter":{},"headers":[],"relativePath":"foo/roadmap.md"}',o={},n=t("",7),l=[n];function p(i,h,s,c,d,f){return a(),r("div",null,l)}var b=e(o,[["render",p]]);export{m as __pageData,b as default};

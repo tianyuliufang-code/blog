@@ -6,4 +6,4 @@
 3. This is a learing blog about front end 
 
 ## To contect me 
-If you see anything wrong in my article<br/>Please send me an email at 3321593926@qq.com
+If you see anything wrong in my article<br/>Please send me an email at null
